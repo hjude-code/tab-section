@@ -1,0 +1,29 @@
+/*!***************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/style.scss ***!
+  \***************************************************************************************************************************************************************************************************************************************/
+.tag-section-wrapper {
+  display: flex;
+  flex-direction: row;
+  padding: 0px !important;
+  height: 100%;
+}
+
+.tag-col-label {
+  background-color: red;
+  align-self: start;
+  position: sticky;
+  padding: 10px;
+}
+
+.tag-col-label > * {
+  writing-mode: vertical-lr;
+  margin: 0px;
+}
+
+.wp-block-tab-section-tab-section {
+  width: 100%;
+  flex-grow: 1;
+  border-left: 2px solid white;
+}
+
+/*# sourceMappingURL=style-index.css.map*/
